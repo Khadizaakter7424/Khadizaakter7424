@@ -73,12 +73,12 @@ fun_fact: "Started in Finance, ended up shipping C# code 🚀"
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khadizaakter7424&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Khadizaakter7424&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
   <img src="https://streak-stats.demolab.com/?user=Khadizaakter7424&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khadizaakter7424&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Khadizaakter7424&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ## 👀 Profile Views
