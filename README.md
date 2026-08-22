@@ -1,3 +1,4 @@
+![Banner](https://raw.githubusercontent.com/Khadizaakter7424/Khadizaakter7424/main/github_terminal_banner.svg)
 ## Hi there 👋
 
 <!--
