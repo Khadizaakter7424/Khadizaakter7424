@@ -64,3 +64,23 @@ fun_fact: "Started in Finance, ended up shipping C# code 🚀"
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p align="left">
+  <a href="https://www.linkedin.com/in/khadiza-akter-04b500395"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:khadizabristy371@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Khadizaakter7424"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khadizaakter7424&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Khadizaakter7424&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khadizaakter7424&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Khadizaakter7424&label=Profile%20Views&color=0e75b6&style=for-the-badge)
