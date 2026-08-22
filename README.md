@@ -1,5 +1,5 @@
 ![Banner](https://raw.githubusercontent.com/Khadizaakter7424/Khadizaakter7424/main/github_terminal_banner.svg)
-## Hi there 👋
+
 
 <!--
 **Khadizaakter7424/Khadizaakter7424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
