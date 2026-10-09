@@ -88,7 +88,7 @@ I come from a **Finance & Banking** background (BBA & MBA) and moved into softwa
 | 🎓 **[Student Management System](#)** | Student records, courses and results management | ASP.NET Core MVC · EF Core Code First |
 | 💊 **[Get Well Pharmacy](#)** | Medicine inventory, sales and ledger accounts | ASP.NET Core · EF Core Code First |
 | 🛒 **[E-commerce Platform](#)** | Product catalog, cart and order management | ASP.NET Core MVC · SQL Server |
-| 🌐 **[Personal Portfolio](#)** | CV-based portfolio with JWT-secured admin panel | ASP.NET Core Web API · Angular |
+| 🌐 **[Personal Portfolio](https://myportfolio-kappa-six-53.vercel.app)** | CV-based portfolio with JWT-secured admin panel | ASP.NET Core Web API · Angular |
 
 > Each project's README includes screenshots, features and setup steps.
 
@@ -100,7 +100,7 @@ I come from a **Finance & Banking** background (BBA & MBA) and moved into softwa
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=googlechrome&logoColor=white)](https://myportfolio-kappa-six-53.vercel.app)
 
 <br/>
 
