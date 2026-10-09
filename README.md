@@ -86,7 +86,7 @@ I come from a **Finance & Banking** background (BBA & MBA) and moved into softwa
 |---|---|---|
 | 🏥 **[Patient Management System](#)** | Manage patients, treatments and daily reports with full CRUD | ASP.NET MVC 5 · EF Database First · SQL Server |
 | 🎓 **[Student Management System](#)** | Student records, courses and results management | ASP.NET Core MVC · EF Core Code First |
-| 💊 **[Pharmacy Management System](#)** | Medicine inventory, sales and ledger accounts | ASP.NET Core · EF Core Code First |
+| 💊 **[Get Well Pharmacy](#)** | Medicine inventory, sales and ledger accounts | ASP.NET Core · EF Core Code First |
 | 🛒 **[E-commerce Platform](#)** | Product catalog, cart and order management | ASP.NET Core MVC · SQL Server |
 | 🌐 **[Personal Portfolio](#)** | CV-based portfolio with JWT-secured admin panel | ASP.NET Core Web API · Angular |
 
