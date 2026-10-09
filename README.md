@@ -12,6 +12,7 @@
 ![Location](https://img.shields.io/badge/Dhaka-Bangladesh-0d1117?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![IsDB-BISEW](https://img.shields.io/badge/IsDB--BISEW-Scholar-238636?style=for-the-badge)
 ![Open to work](https://img.shields.io/badge/Open%20to-Collaboration-1f6feb?style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=Khadizaakter7424&label=Profile%20views&color=238636&style=for-the-badge)
 
 </div>
 
