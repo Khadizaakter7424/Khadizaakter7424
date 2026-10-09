@@ -88,7 +88,7 @@ I come from a **Finance & Banking** background (BBA & MBA) and moved into softwa
 | 🎓 **[Student Management System](#)** | Student records, courses and results management | ASP.NET Core MVC · EF Core Code First |
 | 💊 **[Get Well Pharmacy](#)** | Medicine inventory, sales and ledger accounts | ASP.NET Core · EF Core Code First |
 | 🛒 **[E-commerce Platform](#)** | Product catalog, cart and order management | ASP.NET Core MVC · SQL Server |
-| 🌐 **[Personal Portfolio](https://myportfolio-kappa-six-53.vercel.app)** | CV-based portfolio with JWT-secured admin panel | ASP.NET Core Web API · Angular |
+| 🌐 **[Personal Portfolio](https://myportfolio-kappa-six-53.vercel.app)** | CV-based portfolio with API-driven content and a contact form | ASP.NET Core Web API · React |
 
 > Each project's README includes screenshots, features and setup steps.
 
